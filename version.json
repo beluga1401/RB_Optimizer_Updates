@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.7.0",
-  "release_notes": "Phiên bản v1.7.0:\n- Tích hợp Cửa sổ phụ Live Debloat Auditor giám sát lệnh thật 100%\n- Bổ sung nút bấm thủ công Kiểm tra cập nhật trong Cài Đặt\n- Tự động thay thế và khởi động lại với 1-Click",
-  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.7.0/RB_Gaming_Optimizer_Pro.exe",
+  "latest_version": "1.8.0",
+  "release_notes": "Phiên bản v1.8.0:\n- Tối ưu hóa hiệu năng gaming\n- Giảm độ trễ input và nâng cao FPS\n- Tự động cập nhật 1-Click",
+  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.0/RB_Gaming_Optimizer_Pro.exe",
   "mandatory": false
 }
