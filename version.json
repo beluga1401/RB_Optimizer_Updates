@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.5.0",
-  "release_notes": "Phiên bản v1.5.0:\n- Tích hợp 100% Native Power Plans không phụ thuộc file ngoài\n- Tự động cập nhật 1-Click trực tiếp từ GitHub\n- Tối ưu hóa sâu cho CPU Intel Core & AMD Ryzen (Desktop & Laptop)\n- Sửa lỗi VBS & HVCI tương thích 100% Riot Vanguard (Valorant)\n- Bổ sung tối ưu hóa Minecraft Pro FPS & PvP",
-  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.5.0/RB_Gaming_Optimizer_Pro.exe",
+  "latest_version": "1.6.1",
+  "release_notes": "Phiên bản v1.6.1:\n- Tích hợp Cửa sổ phụ Live Debloat Auditor giám sát lệnh thật 100%\n- Bổ sung nút bấm thủ công Kiểm tra cập nhật trong Cài Đặt\n- Tự động thay thế và khởi động lại với 1-Click",
+  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.6.1/RB_Gaming_Optimizer_Pro.exe",
   "mandatory": false
 }
