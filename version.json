@@ -1,6 +1,6 @@
-﻿{
-  "latest_version": "1.7.0",
-  "release_notes": "Phiên bản v1.7.0:\n- Tích hợp Live Debloat Auditor & Auto-Updater 1-Click",
-  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v.1.7.0/RB_Gaming_Optimizer_Pro.exe",
+{
+  "latest_version": "1.8.0",
+  "release_notes": "Phiên bản v1.8.0:\n- Sửa triệt để lỗi không nhận diện GPU (hỗ trợ NVIDIA RTX 5000/4000, AMD Radeon, Intel Arc)\n- Tự động cập nhật 1-Click & tối ưu hoá hiệu năng",
+  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.0/RB_Gaming_Optimizer_Pro.exe",
   "mandatory": false
 }
