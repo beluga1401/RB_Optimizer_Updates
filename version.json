@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.8.0",
-  "release_notes": "Phiên bản v1.8.0:\n- Sửa triệt để lỗi không nhận diện GPU (hỗ trợ NVIDIA RTX 5000/4000, AMD Radeon, Intel Arc)\n- Tự động cập nhật 1-Click & tối ưu hoá hiệu năng",
-  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.0/RB_Gaming_Optimizer_Pro.exe",
+  "latest_version": "1.8.1",
+  "release_notes": "Phiên bản v1.8.1:\n- Bản vá bảo mật toàn diện (Security Hardening & Anti-Decompile)\n- Xóa bỏ 100% Secret Key khỏi mã nguồn client\n- Tích hợp chữ ký số HMAC-SHA256 chống can thiệp file bản quyền\n- Hỗ trợ đầy đủ GPU NVIDIA RTX 5000/4000 series, AMD, Intel Arc",
+  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.1/RB_Gaming_Optimizer_Pro.exe",
   "mandatory": false
 }
