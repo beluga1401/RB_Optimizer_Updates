@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.8.2",
-  "release_notes": "Phiên bản v1.8.2:\n- Native C++ Binary (Nuitka Engine): Chống dịch ngược và dump .pyc tuyệt đối\n- Zero-Secret Architecture: Client hoàn toàn không chứa Secret Key\n- Xóa bỏ hoàn toàn cấu hình plaintext trong AppData\n- Chữ ký số HMAC-SHA256 bảo vệ bản quyền",
-  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.2/RB_Gaming_Optimizer_Pro.exe",
+  "latest_version": "1.8.3",
+  "release_notes": "Phiên bản v1.8.3:\n- Khóa chặt chống Bypass bản quyền đa tầng (Anti-Bypass & Anti-Hook)\n- Dynamic Hardware Salt & Mã hóa tệp license.dat nhị phân\n- Giới hạn thời gian Offline Lease tối đa 72h & Chống lùi giờ Windows\n- Backend License Gating: Ngăn chặn tuyệt đối việc can thiệp UI/DOM để dùng lậu",
+  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.3/RB_Gaming_Optimizer_Pro.exe",
   "mandatory": true
 }
