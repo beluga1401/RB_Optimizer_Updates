@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.8.4",
-  "release_notes": "Phiên bản v1.8.4:\n- Giao diện UI tinh gọn siêu nhẹ, gỡ Three.js WebGL giúp giảm 100% GPU idle overhead\n- Tích hợp Native C++ Core Engine (rb_native_core.dll) tối ưu RAM < 5ms\n- Cơ chế bảo mật C++ x86-64 chống dump và chống can thiệp ngược\n- Tự động nhận diện cài đặt tức thì, không cần tải lặp lại",
-  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.4/RB_Gaming_Optimizer_Pro.exe",
+  "latest_version": "1.8.5",
+  "release_notes": "Phiên bản v1.8.5:\n- Bổ sung chuyên mục riêng tối ưu Card Đồ Họa (GPU) với 21 tính năng chuyên sâu\n- Bổ sung chuyên mục riêng tối ưu Bộ Nhớ RAM với 9 tính năng và Standby List purge\n- Đạt chuẩn 100% Anti-Cheat Safe và chống lỗi khóa 5 FPS\n- Tự động nhận diện cài đặt tức thì",
+  "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.5/RB_Gaming_Optimizer_Pro.exe",
   "mandatory": true
 }
