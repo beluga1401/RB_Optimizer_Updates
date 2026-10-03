@@ -1,6 +1,6 @@
 {
   "latest_version": "1.8.7",
-  "release_notes": "Phiên bản RB Gaming Optimizer Pro v1.8.7 (DUCK UI Edition):\n- Nâng cấp toàn diện giao diện DUCK UI hiện đại, tối ưu trải nghiệm người dùng\n- Tích hợp nhận diện logo thương hiệu RB và icon cửa sổ chính thức\n- Tối ưu hóa hệ thống bản quyền Firebase và bảo vệ bí mật cơ sở dữ liệu\n- Cải thiện độ trễ đầu vào (Input Delay) và tối ưu hóa hệ thống chuyên sâu\n- Hỗ trợ cập nhật tự động trực tiếp từ file setup",
+  "release_notes": "Phiên bản RB Gaming Optimizer Pro v1.8.7:\n- Nâng cấp giao diện trực quan, tối ưu trải nghiệm người dùng\n- Tích hợp nhận diện logo thương hiệu RB và icon cửa sổ chính thức\n- Tối ưu hóa hệ thống bản quyền Firebase và bảo vệ bí mật cơ sở dữ liệu\n- Cải thiện độ trễ đầu vào (Input Delay) và tối ưu hóa hệ thống chuyên sâu\n- Hỗ trợ cập nhật tự động trực tiếp từ file setup",
   "download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.7/RB_Gaming_Optimizer_Pro.exe",
   "setup_download_url": "https://github.com/beluga1401/RB_Optimizer_Updates/releases/download/v1.8.7/RB_Gaming_Optimizer_Setup.exe",
   "mandatory": false
